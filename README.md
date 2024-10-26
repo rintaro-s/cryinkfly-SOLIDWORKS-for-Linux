@@ -53,7 +53,7 @@ Personally, I think this idea is good and for this reason I will do my best to g
 
 ## Downloads
 
-There are some [script releases](https://github.com/cryinkfly/SOLIDWORKS-Linux-Wine-Version-/tree/main/scripts) available, built from the release targets.
+There are some [script releases](https://github.com/rintaro-s/cryinkfly-SOLIDWORKS-for-Linux/tree/main/scripts) available, built from the release targets.
 
 It's recommended that if you're new you start with the stable builds. Development builds are available here if you need it, but correspondingly may be less stable.
 
@@ -72,13 +72,13 @@ It's recommended that if you're new you start with the stable builds. Developmen
 
 Install Solidworks for Linux client:
 
-1.) Check my <a href="https://github.com/cryinkfly/SOLIDWORKS-Linux-Wine-Version-/wiki/Documentation">GitHub-Documentation</a> before you install Solidworks on your system!
+1.) Check my <a href="https://rintaro-s/cryinkfly-SOLIDWORKS-for-Linux/wiki/Documentation">GitHub-Documentation</a> before you install Solidworks on your system!
 
 2.) Open a terminal and run this command:
 
     cd ~/Downloads && wget -N https://github.com/cryinkfly/SOLIDWORKS-for-Linux/raw/main/scripts/stable-branch/solidworks-install.sh && chmod +x solidworks-install.sh && bash solidworks-install.sh && exit
 
-3.) Please check this [issue](https://github.com/cryinkfly/SOLIDWORKS-Linux-Wine-Version-/issues/3) if the installation hangs up by installing the language files!
+3.) Please check this [issue](https://github.com/rintaro-s/cryinkfly-SOLIDWORKS-for-Linux/issues/3) if the installation hangs up by installing the language files!
 
 *Notice: Script is still in progress!!!
 
